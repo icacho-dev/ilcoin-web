@@ -1,2 +1,2 @@
-# ilcon-web
+# ilcoin-web
 ILCOIN website
